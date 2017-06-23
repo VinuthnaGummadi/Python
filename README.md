@@ -8,3 +8,6 @@ https://github.com/VinuthnaGummadi/Python/wiki/Assignment1
 
 ICE2:
 https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-2
+
+Assignment 2:
+https://github.com/VinuthnaGummadi/Python/wiki/Assignment2
