@@ -63,6 +63,7 @@
         <option value="$PROJECT_DIR$/ICE2/digitsNumbers.py" />
         <option value="$PROJECT_DIR$/ICE2/CharFrequency.py" />
         <option value="$PROJECT_DIR$/ICE2/Source/CharFrequency.py" />
+        <option value="$PROJECT_DIR$/ICE2/Source/digitsNumbers.py" />
       </list>
     </option>
   </component>
@@ -344,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1301" height="766" extended-state="0" />
+    <frame x="1" y="1" width="1301" height="766" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24902724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
