@@ -11,3 +11,9 @@ https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-2
 
 Assignment 2:
 https://github.com/VinuthnaGummadi/Python/wiki/Assignment2
+
+ICE3:
+https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-3
+
+Assignment 3:
+
