@@ -16,4 +16,4 @@ ICE3:
 https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-3
 
 Assignment 3:
-
+https://github.com/VinuthnaGummadi/Python/wiki/Assignment3
