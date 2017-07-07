@@ -17,3 +17,9 @@ https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-3
 
 Assignment 3:
 https://github.com/VinuthnaGummadi/Python/wiki/Assignment3
+
+ICE4:
+https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-4
+
+Assignment 4:
+https://github.com/VinuthnaGummadi/Python/wiki/Assignment4
