@@ -23,3 +23,12 @@ https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-4
 
 Assignment 4:
 https://github.com/VinuthnaGummadi/Python/wiki/Assignment4
+
+ICE5:
+https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-5
+
+Assignment 5:
+https://github.com/VinuthnaGummadi/Python/wiki/Assignment5
+
+ICE6:
+https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-6
