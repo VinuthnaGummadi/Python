@@ -32,3 +32,8 @@ https://github.com/VinuthnaGummadi/Python/wiki/Assignment5
 
 ICE6:
 https://github.com/VinuthnaGummadi/Python/wiki/In-Class-Exercise-6
+
+Assignment 6:
+https://github.com/VinuthnaGummadi/Python/wiki/Assignment-6
+
+
